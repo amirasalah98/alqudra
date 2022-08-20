@@ -1,0 +1,165 @@
+.change {background-color:#CCCCCC;}
+.normal {background-color:#FFFFCC;}
+.fontTable
+{ font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-size: 12px; }
+.fontTableS
+{ font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-size: 9px; }
+.Heading
+{ font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;  color:#999999; font-weight:bold; border-style: solid; border-width: 0px;}
+
+/* h1,h2{ font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; text-align:center; color:rgb(207, 145, 10);
+ } */
+/* A:link {
+	COLOR:rgb(34, 34, 122) ; FONT-FAMILY: Georgia; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR:rgb(34, 34, 122)  ; FONT-FAMILY: Georgia; TEXT-DECORATION: none
+}
+A:active {
+	TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: rgb(207, 145, 10); FONT-FAMILY: Georgia; TEXT-DECORATION: none
+} */
+.form1 {font-family:Georgia, 'Times New Roman', Times, serif; font-size:9px; color: #666666; float: left; border-style: solid; border-width: 1px}
+.button1{border-style: solid; border-width: 1px}
+body {
+ 
+    scrollbar-base-color: #FFFFFF;
+    scrollbar-face-color: #FFFFFF;
+    scrollbar-track-color: FFFFFF;
+    scrollbar-arrow-color: FF9900;
+    scrollbar-3dlight-color: FFFFFF;
+    scrollbar-darkshadow-color: FFFFFF;
+    scrollbar-highlight-color: 99CC00;
+    scrollbar-shadow-color: 99CC00; }
+    /* h1 {
+      text-align: center;
+      font: bold 80px Sans-Serif;
+      padding: 40px 0;
+    } */
+
+/* .bg
+{ 
+background-image: 
+url('imageServices.jpg');
+background-repeat: 
+no-repeat;
+font-family: Verdana, Arial, Helvetica, "sans serif"; font-size: 11px; background-position-y:50% } */
+
+/* .bgServices
+{ 
+background-image: 
+url('Logo-grey.gif');
+background-repeat: 
+no-repeat;
+background-position: 
+  Left Bottom; 
+font-family: Verdana, Arial, Helvetica, "sans serif"; font-size: 11px } */
+
+/* .bgWhyPR
+{ 
+background-image: 
+url('../Public_Relation/bgWhyPR.jpg');
+background-repeat: 
+no-repeat;
+background-position: 
+  Left Top; 
+font-family: Verdana, Arial, Helvetica, "sans serif"; font-size: 11px }
+
+.bgClients
+{ 
+background-image: 
+url('../Public_Relation/bgClients.jpg');
+background-repeat: 
+no-repeat;
+background-position: 
+  Left Top; 
+font-family: Verdana, Arial, Helvetica, "sans serif"; font-size: 11px }
+
+.bgContact
+{ 
+background-image: 
+url('../Public_Relation/bgLogo.gif');
+background-repeat: 
+no-repeat;
+background-position: 
+  Left Bottom; 
+font-family: Verdana, Arial, Helvetica, "sans serif"; font-size: 11px } */
+
+h1,h2,h3,h4,h5,h6{
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+*{
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+li:not(.aboutUs){
+  list-style-type: none;
+  border-right: 1px solid rgba(77, 77, 100, 0.678);
+  
+}
+nav{
+  
+}
+nav a{
+  text-decoration: none;
+  color: #fff;
+}
+nav a:hover{
+  color: rgb(211, 158, 44);
+}
+.first-header{
+  height: 30px;
+  background-color:#141447 ;
+  border-top: 3px solid rgb(211, 158, 44);
+}
+.second-header{
+  height: 100px;
+  background-color: #fff;
+}
+.second-header span{
+  color: rgb(211, 158, 44);
+}
+.bg-sec-color{
+  height: 500px;
+  background-color: rgba(113, 114, 150, 0.678);
+}
+.bg-sec-details{
+  color: #fff;
+}
+.bg-sec-details input{
+  background-color: #00000033;
+  color: #fff;
+  padding: 5px;
+  border: 1px solid rgb(211, 158, 44);
+  border-radius: 5px;
+}
+.bg-sec-details input:hover{
+  transition: all .3s;
+  background-color: rgba(255,255,255,.1);
+  color: rgb(211, 158, 44);
+}
+.bg-sec2{
+background-color: #141447;
+padding: 20px;
+}
+.bg-sec2-all{
+  text-align: center;
+  padding: 20px;
+}
+.bg-sec2-img{
+  width: 200px;
+  padding: 5px;
+border: 2px solid rgb(211, 158, 44);
+border-radius: 50%;
+background-color: #fff;
+}
+.bg-sec2 h1, .bg-sec2 h3{
+color: rgb(211, 158, 44);
+}
+.bg-sec2 p{
+  color: #fff;
+}
+.p-5 {
+  padding: 8rem!important;
+}
